@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://san78.hzone.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
